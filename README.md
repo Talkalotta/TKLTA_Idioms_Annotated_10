@@ -48,14 +48,8 @@ Idiom,Syntactic Structure & Grammatical Form,Figurative Meaning,Non-Idiomatic Eq
 Flat out like a lizard drinking,Simile; fixed expression,Extremely busy or active,Very busy or working hard,B2,"Daily speech, workplace, humour","Colloquial, humorous",Australian rural idiom; evokes image of lizard rapidly lapping water in the heat,/flæt aʊt laɪk ə ˈlɪzəd ˈdrɪŋkɪŋ/,I’ve been flat out like a lizard drinking all week getting this project finished.,Sorry I didn’t call—been flat out like a lizard drinking at work.,"Between the kids and the chores, she’s flat out like a lizard drinking."
 ```
 
-## Usage
-These resources can be useful for linguistic research, idiom translation studies, or language learning materials. The CEFR tag and example sentences facilitate quick integration into educational content.
+Some files use native scripts or region‑specific orthographies. Lines may not be strictly normalized, so minor formatting differences are expected.
 
-## License
-The dataset is released under the [Creative Commons Attribution‑ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). If you use any portion of the Talkalotta Corpora, please attribute as follows:
+---
 
-> "**TKLTA_Idioms_Annotated_10** by **Talkalotta**, part of the Talkalotta Corpora, licensed under CC BY-SA 4.0"
-
-## Contributing
-Pull requests that expand documentation or correct mistakes are welcome. When adding new idioms or languages, please maintain the existing CSV structure.
-
+These datasets are provided "as is" without warranty. They are intended for language learning, linguistics research, and natural language processing experiments.
