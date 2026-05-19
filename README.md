@@ -1,31 +1,13 @@
 # TKLTA_Idioms_Annotated_10
 
-TKLTA_Idioms_Annotated_10 is a multilingual collection of idiomatic expressions curated as part of the **Talkalotta Corpora**. The dataset aggregates ten annotated idioms for each of 68 languages and regional varieties. Every CSV file in this repository corresponds to one language or dialect and contains both linguistic metadata and example sentences for each idiom.
+Kindly find the key for languages with currently available datasets and their TKLTA language codes here: https://www.talkalotta.com/languages
+
+---
+
+TKLTA_Idioms_Annotated_10 is a multilingual collection of idiomatic expressions curated as part of the **Talkalotta Corpora**. The dataset aggregates ten annotated idioms for each language. Every CSV file in this repository corresponds to one language and contains both linguistic metadata and example sentences for each idiom.
 
 ## Repository Structure
-Each file follows the naming pattern `TKLTA_<CODE>_10_IDI_AN.csv`, where `<CODE>` is the language or dialect identifier. For example, `TKLTA_AFB_10_IDI_AN.csv` holds data for Gulf Arabic while `TKLTA_AUEN_10_IDI_AN.csv` contains Australian English idioms. The dataset covers a broad spectrum of varieties, including multiple Spanish dialects, Arabic dialects, regional languages of Europe, English variants, and others.
-
-```
-AEB  – Tunisian Arabic
-AF   – Afrikaans
-AFB  – Gulf Arabic
-ANDA – Andalusian Spanish
-ANDE – Andean Spanish
-ANGR – Ancient Greek
-AN   – Aragonese
-ARAN – Aranese
-ARA  – Modern Standard Arabic
-ARY  – Moroccan Arabic
-ARZ  – Egyptian Arabic
-AST  – Asturian
-AUEN – Australian English
-BOES – Bolivian Spanish
-BP   – Brazilian Portuguese
-BZES – Venezuelan Spanish
-...  (additional codes represent the remaining languages and dialects)
-```
-
-A total of 68 CSV files are provided. Each file has 11 rows: one header row followed by ten idiom entries.
+Each file follows the naming pattern `TKLTA_<CODE>_10_IDI_AN.csv`, where `<CODE>` is the language identifier. For example, `TKLTA_AFB_10_IDI_AN.csv` holds data for Gulf Arabic idioms while `TKLTA_AUEN_10_IDI_AN.csv` contains Australian English idioms. Each file has 11 rows: one header row followed by ten idiom entries.
 
 ## Column Description
 While column labels vary slightly between files, they generally include:
